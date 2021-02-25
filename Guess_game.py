@@ -8,7 +8,7 @@ print("||  ||||||   ||    ||   ||||||||   ||||||||   |||||||")
 print("||   || ||   ||    ||   |||              ||        ||")
 print("||||||| ||   ||||||||   ||||||||   ||||||||   |||||||\n")
 print("                 Instructions For Playing Game")
-print("     1)YOu Will get in all 8 Chances to guess the number")
+print("     1)You Will get in all 8 Chances to guess the number")
 print("     2)If your guessed number is Greater than the hidden number you will get a command to decrement your guess")
 print("     2)If your guessed number is Smaller than the hidden number you will get a command to Increment your guess\n")
 n=36
